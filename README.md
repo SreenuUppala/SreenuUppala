@@ -1,6 +1,6 @@
 # Hi, I'm Sreenu Uppala 👋
 
-### AI/ML Student | Python Developer | Problem Solver
+### AI/ML Student 
 
 Computer Science student focused on Artificial Intelligence, Machine Learning, and Software Development. I build projects to apply concepts in real-world scenarios and actively practice Data Structures & Algorithms for problem-solving strength.
 
@@ -8,7 +8,7 @@ Computer Science student focused on Artificial Intelligence, Machine Learning, a
 
 ## 🚀 Technical Skills
 
-- Programming: Python, Java  
+- Programming: Python
 - Web: HTML, CSS, JavaScript  
 - Machine Learning: Scikit-learn, Pandas, NumPy  
 - Tools: Git, GitHub, VS Code  
