@@ -1,79 +1,18 @@
-# Hi, I'm Sreenu Uppala 👋
+# 💫 About Me:
+<br><br>Hi, I'm **Sreenu Uppala**, a Computer Science student with a strong interest in **Artificial Intelligence, Machine Learning, and Software Development**. I enjoy building practical projects, solving algorithmic problems, and applying technology to real-world challenges.<br><br>My journey in technology focuses on developing expertise in **Python, Machine Learning, Data Structures & Algorithms, and Web Development**. Through hands-on projects and continuous learning, I strive to strengthen my problem-solving skills and software engineering fundamentals.<br><br>I am currently focused on advancing my knowledge of AI/ML, improving my DSA proficiency, and building impactful projects that demonstrate both technical skills and real-world value. My goal is to grow into a skilled Software Engineer capable of developing scalable, intelligent, and user-focused solutions.<br>
 
-### AI/ML Student 
 
-Computer Science student focused on Artificial Intelligence, Machine Learning, and Software Development. I build projects to apply concepts in real-world scenarios and actively practice Data Structures & Algorithms for problem-solving strength.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sreenu Uppala) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sreenuuppala73@gmail.com) 
 
----
-
-## 🚀 Technical Skills
-
-- Programming: Python
-- Web: HTML, CSS, JavaScript  
-- Machine Learning: Scikit-learn, Pandas, NumPy  
-- Tools: Git, GitHub, VS Code  
-- CS Fundamentals: Data Structures, Algorithms, OOP
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=SreenuUppala&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=SreenuUppala&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=SreenuUppala&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=SreenuUppala&icon=4&color=0)](https://visitcount.itsvg.in)
 
-## 💻 Projects
-
-### Fake News Detection System (ML Project)
-- NLP-based classification of fake vs real news articles  
-- Text preprocessing, TF-IDF vectorization, model training  
-- Compared multiple ML models for performance evaluation  
-- Achieved ~90%+ accuracy on test dataset  
-- Tech: Python, Scikit-learn, Pandas  
-
----
-
-### Personal Portfolio Website
-- Responsive portfolio showcasing skills and projects  
-- Built using HTML, CSS, and JavaScript  
-- Includes project showcase and contact section  
-- Repository: Personal_Portfolio  
-
----
-
-### Data Structures & Algorithms Practice
-- Solved structured DSA problems in Python  
-- Topics: Arrays, Linked Lists, Trees, Recursion, Graphs  
-- Focused on improving problem-solving speed and logic building  
-
----
-
-## 🌱 Currently Improving
-
-- Advanced Data Structures & Algorithms  
-- Machine Learning model optimization  
-- Full Stack Web Development fundamentals  
-- System design basics  
-
----
-
-## 🎯 Goal
-
-To become a strong Software Engineer with solid foundations in AI/ML and problem-solving, and to build production-level projects for internships and real-world impact.
-
----
-
-## 📫 Connect
-
-- LinkedIn: https://www.linkedin.com/in/sreenu-uppala-56b647355  
-- GitHub: https://github.com/SreenuUppala  
-- Portfolio: https://github.com/SreenuUppala/Personal_Portfolio  
-
-<!--
-**SreenuUppala/SreenuUppala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
